@@ -1,0 +1,164 @@
+
+
+{
+  "main": {
+    "name": "Rohit Tamra",
+    "occupation": "Devops Engineer/Site Reliability Engineer",
+    "description": "4.5+ years of background in system analysis and deployments, team leadership, as well as personal administration and professional development. Possess exemplary skills in verbal, written communication and time management. Highly motivated to constantly develop skills and grow professionally.",
+    "image": "profilepic.jpg",
+    "bio": "Always keen to learn new technologies in any area.",
+    "contactmessage": "Any Frontend/Backend queries you can contact me at my email.",
+    "email": "engr.rohittamra@gmail.com",
+    "phone": "+41-796468504",
+    "address": {
+      "street": "Seebach",
+      "city": "Zurich",
+      "state": "Switerzland",
+      "zip": "8052"
+    },
+    "website": "http://rohit.tamra.me",
+    "resumedownload": "https://github.com/rohittamra/my-resume-website/blob/main/Resume%20%20Rohit%20Tamra-%2011-04-2022.pdf",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://m.facebook.com/100002324873659/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://in.linkedin.com/in/rohit-tamra-87882b121",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/rohit_tamra/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/rohittamra/",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My skills",
+    "education": [
+      {
+        "school": "Indian institute of technology Madras",
+        "degree": "Advance Certification in Software Engineering for Cloud, Blockchain and IoT",
+        "graduated": "2021- Present",
+        "description": "Exploring and Creating several projects related to Cloud AWS and IOT organizational related"
+      },
+      {
+        "school": "Swami Keshvanand Institute of Technology, Management and Gramothan, Jaipur (RTU, Kota)",
+        "degree": "B.Tech. in Computer Science & Engineering with an aggregate of 82.0% (Honours Degree)",
+        "graduated": "2014 -2018",
+        "description": "Tertiary Education"
+      },
+      {
+        "school": "Maheshwari Public School, Ajmer (CBSE)",
+        "degree": "Completed higher secondary examination with an aggregate of 78.0% Completed senior secondary education with CGPA of 8.8",
+        "graduated": "2012-2014",
+        "description": "Secondary Education"
+      }
+    ],
+      "publication": [
+        {
+          "id": 1,
+          "title": "Android Project",
+          "short_description": "Its a simple project on android",
+          "skills_used": "Skill1 , Skill2",
+          "description": "here i did adroid project"
+        }
+      ],
+    "work": [
+      {
+        "id": 1,
+        "company": "UBS Zurich (on-site)- Contract based",
+        "title": "Technology Analyst ",
+        "years": "Feb 2022 - Present",
+        "description": "Migrated bank to all the DevOps tools i.e. Gitlab, Docker, Ansible etc."
+      },
+      {
+        "id": 2,
+        "company": "Infosys",
+        "title": "Senior System Engineer",
+        "years": "Oct 2020 - Jan 2022",
+        "description": "Worked in CI/CD background in github and jenkins."
+      },
+      {
+        "id": 3,
+        "company": "Infosys",
+        "title": "System Engineer",
+        "years": "Oct 2019 - Oct 2020",
+        "description": "Worked in the Linux Background creating websites in php perl and SQL"
+      },
+      {
+        "id": 4,
+        "company": "Infosys",
+        "title": "System Engineer Trainee",
+        "years": "May 2018 - Oct 2019",
+        "description": "Learned about SQL, Python and done Majors in Linux Administrations"
+      }
+    ],
+    "skills": [
+      {
+        "name": "DevOps Tools - Github,GitLab,Docker,Jenkins,Nexus",
+        "level": "90%"
+      },
+      {
+        "name": "Linux",
+        "level": "70%"
+      },
+      {
+        "name": "Flask Rest Plus API ",
+        "level": "90%"
+      }
+      ,
+      {
+        "name": "Python",
+        "level": "90%"
+      },
+      {
+        "name": "Web Full Stack Developer",
+        "level": "60%"
+      },
+      {
+        "name": "Database - SQL/ POSTGRES/ MongoDB",
+        "level": "50%"
+      },
+      {
+        "name": "Ansible",
+        "level": "90%"
+      },
+      {
+        "name": "Shell / Bash Scripting",
+        "level": "60%"
+      }
+      
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Resume Website",
+        "category": "A React based resume website template",
+        "image": "resume-website.jpg",
+        "url": "http://www.timbakerdev.com"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "You are the jack of all trades",
+        "user": "Suresh Gurala"
+      },
+      {
+        "text": "Rohit must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Karthik Loganathan"
+      }
+    ]
+  }
+}

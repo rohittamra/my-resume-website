@@ -1,2 +1,3 @@
-# my-resume-website
-my-resume-website
+npm install jquery --save
+npm install react-ga --save
+npm start

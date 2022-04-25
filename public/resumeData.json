@@ -70,6 +70,13 @@
           "short_description": "Its a simple project on android",
           "skills_used": "Skill1 , Skill2",
           "description": "here i did adroid project"
+        },
+        {
+          "id": 2,
+          "title": " Project",
+          "short_description": "Its a simple project on android",
+          "skills_used": "Skill1 , Skill2",
+          "description": "here i did adroid project"
         }
       ],
     "work": [
@@ -136,7 +143,6 @@
         "name": "Shell / Bash Scripting",
         "level": "60%"
       }
-      
     ]
   },
   "portfolio": {

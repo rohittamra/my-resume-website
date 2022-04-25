@@ -2,13 +2,14 @@
   "name": "personalportfolio",
   "version": "0.1.0",
   "eslintConfig": {
-      "env": {
-          "browser": true,
-          "node": true
-      }
+    "env": {
+      "browser": true,
+      "node": true
+    }
   },
   "private": true,
   "dependencies": {
+    "express": "^4.17.3",
     "jquery": "^3.6.0",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
